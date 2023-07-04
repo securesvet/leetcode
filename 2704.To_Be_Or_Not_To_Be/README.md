@@ -14,3 +14,5 @@ So basically we have a variable called ```expect``` and we have to pass the valu
 ...
 ```
 So we can make new (as I prefer to call it here) methods, that we can call the way we want them to be called. So we access those elements of `dictionary`, where keys are "toBe" and "notToBe", it passes the new variable (damn, that is cool) and we my add any kind of code we want.
+Actually, it is called 'method chaining'. I've got to read about this later.
+
