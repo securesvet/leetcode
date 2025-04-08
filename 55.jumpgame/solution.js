@@ -14,7 +14,3 @@ var canJump = function (nums) {
     if (currentSegmentLength >= nums.length) return true;
   }
 };
-
-const arr = [1, 0, 1, 0];
-
-console.log(canJump(arr));
